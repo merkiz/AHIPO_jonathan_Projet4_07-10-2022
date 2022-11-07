@@ -6,7 +6,9 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+.temoignage-citation,.temoignage-auteur{
+    font-size: 20px;
+}
 a,
 button {
     transition: all .3s ease-in-out;
